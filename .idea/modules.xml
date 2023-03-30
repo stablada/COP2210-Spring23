@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/COP2210-A6/COP2210-A6.iml" filepath="$PROJECT_DIR$/COP2210-A6/COP2210-A6.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/COP2210-Spring23.iml" filepath="$PROJECT_DIR$/.idea/COP2210-Spring23.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
     </modules>
   </component>
 </project>
