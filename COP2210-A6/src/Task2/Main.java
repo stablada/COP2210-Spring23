@@ -16,7 +16,7 @@ public class Main {
         PoemMaker line3 = new PoemMaker(sc.nextLine());
         System.out.println("Enter line 4:");
         PoemMaker line4 = new PoemMaker(sc.nextLine());
-        System.out.println("");
+        System.out.println();
 
         line1.poemize();
         line2.poemize();
