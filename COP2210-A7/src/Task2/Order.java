@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Order {
     static Scanner sc = new Scanner(System.in);
-    private static String productName;
-    private static int quantity;
+    private String productName;
+    private int quantity;
 
     public Order() {
         productName = "";
