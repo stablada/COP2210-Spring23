@@ -1,3 +1,5 @@
+package Task1;
+
 public class ArrayClass {
     public static double[] copyArray(double[] source, double[] dest){
         for(int i = 0; i < source.length; i++){
